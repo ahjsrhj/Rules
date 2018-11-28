@@ -8228,7 +8228,6 @@ DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
 
 URL-REGEX,^https?:\/\/(\w\.)?up\.qingdaonews\.com
-URL-REGEX,^https?:\/\/(\w+\.)?(ads|log\w?|tj|tongji|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|net)
 URL-REGEX,^https?:\/\/(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$)
 URL-REGEX,^https?:\/\/.+\.beacon\.qq\.com
 URL-REGEX,^https?:\/\/.+\.gdt\.qq\.com
